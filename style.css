@@ -297,7 +297,7 @@ footer .container .footer-primary-heading{
 
 @media only screen and (max-width: 748px){
     header{
-        height: 80vh;
+        height: 120vh;
     }
 
     .logo{
@@ -333,7 +333,7 @@ footer .container .footer-primary-heading{
     }
 
     .section-one{
-        height: 110vh;
+        height: 100vh;
         
     }
 
