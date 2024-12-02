@@ -8,6 +8,11 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+    
+
 :root{
     --main-color:#239b7e;
     --main-font: serif;
